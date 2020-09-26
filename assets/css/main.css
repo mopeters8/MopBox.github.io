@@ -1843,7 +1843,7 @@ input, select, textarea {
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-weight: 300;
+		font-weight: 600;
 		height: 2.75em;
 		line-height: 2.75em;
 		min-width: 9.25em;
@@ -3411,7 +3411,7 @@ input, select, textarea {
 			#main input[type="button"].primary,
 			#main button.primary,
 			#main .button.primary {
-				background-color: #8cc9f0;
+				background-color: ##eb04ff;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
