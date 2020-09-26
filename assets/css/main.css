@@ -2360,8 +2360,8 @@ input, select, textarea {
 		}
 
 	.icon.alt {
-		border-color: rgba(255, 255, 255, 0.35);
-		color: #ffffff;
+		border-color: rgb(255, 0, 215);
+		color: #db0eed;
 	}
 
 		.icon.alt:hover {
