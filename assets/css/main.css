@@ -2861,7 +2861,7 @@ input, select, textarea {
 
 /* Statistics */
 
-	/*.statistics {
+	.statistics {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2966,7 +2966,7 @@ input, select, textarea {
 					font-size: 2.5em;
 				}
 
-		}*/
+		}
 
 /* Spotlight */
 
